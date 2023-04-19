@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a434dc89.css",
+    "main.css": "/static/css/main.aa96af37.css",
     "main.js": "/static/js/main.ba2c87ed.js",
     "static/media/chandrakant.png": "/static/media/chandrakant.304ad9d7db4d2d1d56c6.png",
     "index.html": "/index.html",
-    "main.a434dc89.css.map": "/static/css/main.a434dc89.css.map",
+    "main.aa96af37.css.map": "/static/css/main.aa96af37.css.map",
     "main.ba2c87ed.js.map": "/static/js/main.ba2c87ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.a434dc89.css",
+    "static/css/main.aa96af37.css",
     "static/js/main.ba2c87ed.js"
   ]
 }
