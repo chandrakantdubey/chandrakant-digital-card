@@ -17,7 +17,7 @@ export default function Body() {
       />
       <Description
         title="Interests"
-        text="Hiker. Solor Road Trips. Long Cycling Trips. Footballer. Messi fan. Hih-Hip music. No social media. In-person meet-ups"
+        text="Hiker. Solor Road Trips. Long Cycling Trips. Footballer. Messi fan. Hip-Hop music. No social media. In-person meet-ups"
       />
     </div>
   );
